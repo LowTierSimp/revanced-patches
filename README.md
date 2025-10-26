@@ -63,7 +63,7 @@
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/ReVanced/revanced-patches/release.yml)
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
-This repository contains a collection of ReVanced Patches.
+A fork of ReVanced patches to bring back Premium Spotify Patch
 
 ## ❓ About
 
