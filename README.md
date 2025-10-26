@@ -63,24 +63,24 @@
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/ReVanced/revanced-patches/release.yml)
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
-A fork of ReVanced patches to bring back Premium Spotify Patch
+A fork of ReVanced Patches to bring back Premium Spotify Patch
 
-## ❓ About
+## About
 
 Patches are small modifications to Android apps that allow you to change the behavior of or add new features,
 block ads, customize the appearance, and much more.
 
-## 💪 Features
+## Features
 
 You already know what it is
 
 For a complete list of all available patches, visit [revanced.app/patches](https://revanced.app/patches).
 
-### 🛠️ Building
+### Building
 
 To build ReVanced Patches, you can follow the [ReVanced documentation](https://github.com/ReVanced/revanced-documentation).
 
-## 📜 Licence
+## Licence
 
 ReVanced Patches is licensed under the GPLv3 license. Please see the [license file](LICENSE) for more information.
 [tl;dr](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) you may copy, distribute and modify ReVanced Patches as long as you track changes/dates in source files.
