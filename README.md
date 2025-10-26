@@ -72,26 +72,9 @@ block ads, customize the appearance, and much more.
 
 ## 💪 Features
 
-Some of the features the patches provide are:
-
-* 🚫 **Block ads**: Say goodbye to ads
-* ⭐ **Customize your app**: Personalize the appearance of apps with various layouts and themes
-* 🪄 **Add new features**: Extend the functionality of apps with lots of new features
-* ⚙️ **Miscellaneous and general purpose**: Rename packages, enable debugging, disable screen capture restrictions,
-  export activities, etc.
-* ✨ **And much more!**
+You already know what it is
 
 For a complete list of all available patches, visit [revanced.app/patches](https://revanced.app/patches).
-
-## 🚀 How to get started
-
-You can use [ReVanced CLI](https://github.com/ReVanced/revanced-cli) or [ReVanced Manager](https://github.com/ReVanced/revanced-manager) to use ReVanced Patches.
-
-## 📚 Everything else
-
-### 📙 Contributing
-
-Thank you for considering contributing to ReVanced Patches. You can find the contribution guidelines [here](CONTRIBUTING.md).
 
 ### 🛠️ Building
 
